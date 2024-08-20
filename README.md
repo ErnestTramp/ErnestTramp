@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Ernest</h1>
 <h3 align="left">An in progress full stack developer from England!</h3>
 
-- 🔭 I’m currently working on **a youtube assistant tool**
+- 🔭 I’m currently working on **a new e-commerce site for my business**
 
 - 📫 How to reach me **ernesttramp@gmail.com**
 
